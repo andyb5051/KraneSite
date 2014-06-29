@@ -1,0 +1,6 @@
+sudo apt-get update
+sudo tasksel install lamp-server
+sudo takesel install samba-server
+sudo wget http://wordpress.org/latest.tar.gz
+sudo tar -xzvf latest.tar.gz
+
